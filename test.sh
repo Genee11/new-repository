@@ -1,2 +1,4 @@
 #!/bin/bash
-printf "Hello, ./."
+#updated
+
+prinf "updated na to pero sa ibang branch naman para di masira yung main" 
